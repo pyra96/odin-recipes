@@ -1,0 +1,39 @@
+#title {
+
+background-color: black;
+color: white;
+font-size: 60px;
+text-align: center;
+font-weight: bold;
+
+}
+
+.list {
+
+    text-align: center;
+    font-size: 45px;
+    background-color: green;
+    font-weight: 400;
+
+}
+
+#lasagna {
+
+    height: 400px;
+    width: 400px;
+
+}
+
+#chicken {
+
+    height: 400px;
+    width: 400px;
+
+}
+
+#potato {
+
+    height: 400px;
+    width: 400px;
+
+}
